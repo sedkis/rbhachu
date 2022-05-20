@@ -1,12 +1,11 @@
-# Hi, I'm Rishi and welcome to my GitHub Page! 👋
+# Hi, I'm Sedky Shamalah and welcome to my GitHub Page! 👋
 <br/>
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
-- ⚡ Im a Full-Stack Developer with over 15 years experience, based in the UK.
-<!-- 🔍 Seeking new Fully Remote opportunities. -->
-- ✍️ Available for collaborattion on Voluntary and Community Projects.
-- 🎮 In my spare time I enjoy Gaming, Dj'ing, Cooking, watching classic Movies/TV Shows &amp; breaking/building things.
-- 😄 Fun fact: ... I took part in a world record attempt as a Cub Scout to cook a 7 mile sausage in Hyde Park, London, UK. (Spoiler Alert: The next day I became Vegan 🤢😄)
+- ⚡ Im a Full-Stack Developer with over 10 years experience.
+
+- ✍️ Visit my [website](www.sedkodes.com) to learn more about me.
+- 🎮 In my spare time I enjoy Gaming, Hiking, Working Out, watching classic Movies/TV Shows &amp; breaking/building things.
 - 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-dynos-in-heroku)**_
 <br/>
 
@@ -42,19 +41,19 @@
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 -->
 
-[![Rishi Bhachu StackOverflow](https://stackoverflow-badge.vercel.app/?userID=5238978)](https://stackoverflow.com/users/5238978/rishi-singh)
+[![Rishi Bhachu StackOverflow](https://stackoverflow-badge.vercel.app/?userID=13364898)](https://stackoverflow.com/users/13364898/sedky-abou-shamalah)
 <br/><br/>
 
 ## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rbhachu&theme=nightowl)](https://git.io/streak-stats)
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbhachu&theme=nightowl&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sedkis&theme=nightowl)](https://git.io/streak-stats)
+![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedkis&theme=nightowl&show_icons=true)
 <br/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=rbhachu">
+  <img src="https://komarev.com/ghpvc/?username=sedkis">
 </a>
 
 ### Most Used Languages&nbsp;&nbsp;
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Rishi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbhachu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sedky's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedkis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
 <a target="_blank" title="https://www.bhachublog.com" href="https://www.bhachublog.com"><img src="https://img.shields.io/badge/-Bhachu Blog-000000?style=flat&logo=Blogger&logoColor=white"/></a>
