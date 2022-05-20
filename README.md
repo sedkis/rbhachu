@@ -4,7 +4,7 @@
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
 - ⚡ Im a Full-Stack Developer with over 10 years experience.
 
-- ✍️ Visit my [website](www.sedkodes.com) to learn more about me.
+- ✍️ Visit my [website](https://www.sedkodes.com) to learn more about me.
 - 🎮 In my spare time I enjoy Gaming, Hiking, Working Out, watching classic Movies/TV Shows &amp; breaking/building things.
 - 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-dynos-in-heroku)**_
 <br/>
