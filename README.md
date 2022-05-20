@@ -6,7 +6,7 @@
 
 - ✍️ Visit my [website](https://www.sedkodes.com) to learn more about me.
 - 🎮 In my spare time I enjoy Gaming, Hiking, Working Out, watching classic Movies/TV Shows &amp; breaking/building things.
-- 📰 _**Check out my first dev article on [HashNode - Use a Free Scheduler to Restart your App Dynos in Heroku!](https://rbhachu.hashnode.dev/use-a-free-scheduler-to-restart-your-dynos-in-heroku)**_
+- 📰 _**Check out my [Software Blog!](https://www.sedkodes.com)**_
 <br/>
 
 ## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
@@ -56,5 +56,5 @@
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Sedky's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedkis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
-<a target="_blank" title="https://www.bhachublog.com" href="https://www.bhachublog.com"><img src="https://img.shields.io/badge/-Bhachu Blog-000000?style=flat&logo=Blogger&logoColor=white"/></a>
-<a target="_blank" title="https://www.linkedin.com/in/rishibhachu" href="https://www.linkedin.com/in/rishibhachu"><img src="https://img.shields.io/badge/-Rishi&nbsp;Bhachu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" title="https://www.sedkodes.com" href="https://www.sedkodes.com"><img src="https://img.shields.io/badge/-Sedkodes%20Blog-000000?style=flat&logo=Blogger&logoColor=white"/></a>
+<a target="_blank" title="https://www.linkedin.com/in/sedky" href="https://www.linkedin.com/in/sedky"><img src="https://img.shields.io/badge/-Sedky&nbsp;Shamalah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
