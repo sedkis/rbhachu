@@ -1,12 +1,11 @@
-# Hi, I'm Sedky Shamalah and welcome to my GitHub Page! 👋
+# Hi, I'm Sedky Abou-Shamalah and welcome to my GitHub Page! 👋
 <br/>
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
 - ⚡ Im a Full-Stack Developer with over 10 years experience.
+- ⚡ I help software teams build, deploy, and manage their APIs
 
-- ✍️ Visit my [website](https://www.sedkodes.com) to learn more about me.
-- 🎮 In my spare time I enjoy Gaming, Hiking, Working Out, watching classic Movies/TV Shows &amp; breaking/building things.
-- 📰 _**Check out my [Software Blog!](https://www.sedkodes.com)**_
+- ✍️ Visit [www.sedkodes.com](https://www.sedkodes.com) to learn more about me.
 <br/>
 
 ## 🛠 &nbsp;Developer Stack&nbsp;&nbsp;
