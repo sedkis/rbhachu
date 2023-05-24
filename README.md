@@ -1,4 +1,4 @@
-# Hi, I'm Sedky Abou-Shamalah and welcome to my GitHub Page! 👋
+# Hi, I'm Sedky Haider and welcome to my GitHub Page! 👋
 <br/>
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
