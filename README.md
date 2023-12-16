@@ -1,6 +1,8 @@
 # Hi, I'm Sedky Haider and welcome to my GitHub Page! 👋
 <br/>
 
+Read more about me [here](https://www.sedkodes.com/)
+
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
 - ⚡ Im a Full-Stack Developer with over 10 years experience.
 - ⚡ I help software teams build, deploy, and manage their APIs
